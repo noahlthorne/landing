@@ -1,0 +1,21 @@
+.btn-medium {
+  color: #CDCDCD;
+  background-color: white;
+  border: 1px solid #CDCDCD;
+  padding: 16px 24px;
+  border-radius: 34px;
+}
+
+.btn-treehouse {
+  background-color: #111629;
+  color: white;
+  padding: 16px 24px;
+  border-radius: 4px;
+  transition: transform .8s;
+  display: inline-block;
+}
+
+.btn-treehouse:hover {
+  transform: rotate(360deg);
+  opacity: 0.8;
+}

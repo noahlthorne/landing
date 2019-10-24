@@ -1,0 +1,20 @@
+.banner {
+  height: 500px;
+  color: white;
+  display: flex;
+  align-items: top;
+  padding-left: 64px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+.banner p {
+  margin-bottom: 40px;
+}
+
+.banner > h1 {
+  margin-bottom: 0px;
+}
+
